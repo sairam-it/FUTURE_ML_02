@@ -91,12 +91,3 @@ This project demonstrates how **Machine Learning + Business Dashboards** can wor
 
 🏆 This fulfills **Task 2 of my Machine Learning Internship with Future Interns**, focusing on **classification, predictive modeling, and business analytics**.  
 
-## 📜 Conclusion  
-This project demonstrates how **Machine Learning + Business Dashboards** can work together to:  
-- Predict customer churn with high accuracy  
-- Highlight the most important drivers of churn  
-- Provide actionable insights for **retention strategies** in the banking sector  
-
-🏆 This fulfills **Task 2 of my Machine Learning Internship with Future Interns**, focusing on **classification, predictive modeling, and business analytics**.  
-
-
